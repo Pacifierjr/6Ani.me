@@ -8,3 +8,9 @@ Website : https://6ani.me/
 Anime, Movies and Drama Website Scripts Available here : https://streamscripts.xyz/
 
 <img style="object-fit: contain; border-radius: 4px; margin-bottom: 16px" src="banner.gif" alt="banner" height="100">
+
+Other streaming sites :
+https://gogoanime.la/
+https://mydrama.one/
+https://vidembed.one/
+https://mangareader.one/

@@ -11,6 +11,8 @@ Anime, Movies and Drama Website Scripts Available here : https://streamscripts.x
 
 Other streaming sites :
 https://gogoanime.la/ | 
-https://mydrama.one/ | 
+https://asianflix.co/ | 
 https://vidembed.one/ | 
-https://mangareader.one/
+https://mangareader.one/ |
+https://9anime.skin/ |
+https://gogoanime.skin/

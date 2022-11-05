@@ -15,4 +15,4 @@ https://asianflix.co/ |
 https://vidembed.one/ | 
 https://mangareader.one/ |
 https://9anime.skin/ |
-https://gogoanime.skin/
+https://gogoanime.skin/ 

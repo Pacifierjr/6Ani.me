@@ -3,7 +3,7 @@
 <img style="object-fit: contain; border-radius: 4px; margin-bottom: 16px" src="logo.png" alt="6anime" height="50">
 Stream Anime Sub, RAW and Dubbed without Ads! 100% AD-FREE and Direct Download! 
 
-Website : https://6ani.me/
+Website : https://6anime.org
 
 Anime, Movies and Drama Website Scripts Available here : https://streamscripts.xyz/
 
